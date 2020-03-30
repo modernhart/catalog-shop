@@ -16,3 +16,6 @@ This is a simple application developed with React Native.
     
   해당 명령어로 android의 release apk 파일을 생성하였습니다.<br />
 in project/android/ `./gradlew assemblerelease`
+
+#### 다운로드 및 공유 링크
+https://drive.google.com/file/d/1oacPMSxZj2sbBdtIQwI6wmOp4vqmtb2Z/view?usp=sharing
