@@ -11,7 +11,7 @@ This is a simple application developed with React Native.
   - react-native-app-intro-slider
   - react-native-chart-kit
 <p align="center">
-  <img src="https://modernhart.github.io/alias/images/simpleshop_intro1.jpg" width="300">
+  <img src="https://modernhart.github.io/images/simpleshop_intro1.jpg" width="300">
 </p>
     
   해당 명령어로 android의 release apk 파일을 생성하였습니다.<br />
